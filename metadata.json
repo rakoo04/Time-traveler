@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Time Traveler",
+  "description": "An open canvas app that uses your image to generate immersive scenes from major historical events, creating a personal time travel tree.",
+  "requestFramePermissions": []
+}
